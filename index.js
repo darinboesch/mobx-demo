@@ -1,5 +1,5 @@
-import TodoStore from './todo-store'
-import ObservableTodoStore from './observable-todo-store'
+import TodoStore from './todo-store';
+import ObservableTodoStore from './observable-todo-store';
 
 ///////////////////////////////////////////////////////////
 // /*

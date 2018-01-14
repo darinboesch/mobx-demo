@@ -1,8 +1,8 @@
-import * as mobx from 'mobx'
+import * as mobx from 'mobx';
 import {
 	observable,
 	computed
-} from 'mobx'
+} from 'mobx';
 
 export default class ObservableTodoStore {
 	// @observable - marks the value to with MobX to say that these can change over time
